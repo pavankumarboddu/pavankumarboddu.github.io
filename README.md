@@ -1,4 +1,4 @@
 pavankumarboddu.github.io
 =====================
 
-https://github.com/pavankumarboddu
+https://pavankumarboddu.github.io/
